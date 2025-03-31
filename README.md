@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukesh Bheel </h1>
-<h3 align="center 🚀 Flutter Developer | Crafting Cross-Platform Mobile Experiences  </h3>
+
+<h3 align="center > 🚀 Flutter Developer | Crafting Cross-Platform Mobile Experiences  </h3>
 
 🌱 I’m currently exploring **Flutter animations, performance optimization, and state management techniques.**  
 
