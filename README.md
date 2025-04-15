@@ -24,7 +24,3 @@
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh-addweb&show_icons=true&locale=en&layout=compact" alt="mukesh-addweb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh-addweb&show_icons=true&locale=en" alt="mukesh-addweb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-addweb&" alt="mukesh-addweb" /></p>
